@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+<?php include 'includes/checkdbcredentials.php'; // To check if the credentials are set ?> 
+
 <html lang="en">
   <head>
     <meta charset="utf-8">

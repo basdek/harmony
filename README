@@ -1,1 +1,5 @@
 Harmony is a PHP/MySQL-driven webinterface for your music library.
+
+To Do:
+
+-After configuration, permissions of dbcredentials should be read-only
