@@ -35,7 +35,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="index.php">Harmony</a>
+          <a class="brand" href="index.php" id="header-titlecolor">Harmony</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <li class="active"><a href="#">Library</a></li>

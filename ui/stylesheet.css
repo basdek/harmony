@@ -1,0 +1,11 @@
+/* 
+Name conventions:
+Since Bootstrap prefers classes, we don't mess things up
+and use divs for layout tweaking. A div has to be named using
+'page it appears on (optional)'-'block it appears on'-'functionality'. 
+*/
+
+
+#header-titlecolor {
+color: #c3ff68; 
+}
