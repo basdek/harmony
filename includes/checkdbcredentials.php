@@ -6,5 +6,8 @@ if (!file_exists($dbcredentials)) { // We assume the user doesn't edit files man
     fclose($dbcredentials_filehandler); // Close it
     chmod($dbcredentials, 0777); // This should be changed to read-only post-install
     header('Location: ../install.php'); // Redirect to install.php to finish installation
+    
+    // Everything except redirection should be done on install.php to ensure
+    // the installation was finished
 }
 ?>
