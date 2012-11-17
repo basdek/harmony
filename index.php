@@ -15,6 +15,9 @@
       }
     </style>
 
+    <!-- Cosmetic surgery of Harmony -->
+    <link href="ui/stylesheet.css" rel="stylesheet">
+
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -32,12 +35,12 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">Project name</a>
+          <a class="brand" href="index.php">Harmony</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#about">About</a></li>
-              <li><a href="#contact">Contact</a></li>
+              <li class="active"><a href="#">Library</a></li>
+              <li><a href="#about">Settings</a></li>
+              <li><a href="#contact">System Info</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
